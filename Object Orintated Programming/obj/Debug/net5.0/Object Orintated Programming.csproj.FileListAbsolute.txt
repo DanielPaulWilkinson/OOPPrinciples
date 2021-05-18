@@ -1,0 +1,16 @@
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\bin\Debug\net5.0\Object Orintated Programming.exe
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\bin\Debug\net5.0\Object Orintated Programming.deps.json
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\bin\Debug\net5.0\Object Orintated Programming.runtimeconfig.json
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\bin\Debug\net5.0\Object Orintated Programming.runtimeconfig.dev.json
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\bin\Debug\net5.0\Object Orintated Programming.dll
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\bin\Debug\net5.0\ref\Object Orintated Programming.dll
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\bin\Debug\net5.0\Object Orintated Programming.pdb
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\obj\Debug\net5.0\Object Orintated Programming.csprojAssemblyReference.cache
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\obj\Debug\net5.0\Object Orintated Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\obj\Debug\net5.0\Object Orintated Programming.AssemblyInfoInputs.cache
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\obj\Debug\net5.0\Object Orintated Programming.AssemblyInfo.cs
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\obj\Debug\net5.0\Object Orintated Programming.csproj.CoreCompileInputs.cache
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\obj\Debug\net5.0\Object Orintated Programming.dll
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\obj\Debug\net5.0\ref\Object Orintated Programming.dll
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\obj\Debug\net5.0\Object Orintated Programming.pdb
+C:\Users\DWilkinson3\source\repos\Object Orintated Programming\Object Orintated Programming\obj\Debug\net5.0\Object Orintated Programming.genruntimeconfig.cache
